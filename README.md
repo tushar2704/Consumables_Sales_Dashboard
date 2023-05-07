@@ -1,4 +1,4 @@
-# Consumables Sales Dashboard(2019-2021) with Power BI
+## Consumables Sales Dashboard(2019-2021) with Power BI
 
 ## Project Purpose: 
 Welcome to the Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
