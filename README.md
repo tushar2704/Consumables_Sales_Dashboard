@@ -1,66 +1,36 @@
-# PBI_Sales_Dashboard
-## PBI_Sales_Dashboard 1
-<a href="https://drive.google.com/uc?export=download&id=1Q7_Seerl4Da2k3pDw9bOXH91vLe44wrc" download>
-  <button>Download File</button>
-</a>
+# Consumables Sales Dashboard(2019-2021) with Power BI
+
 ## Project Purpose: 
-To demonstrate a full ML project from scratch to deployment to a web app.
+Welcome to the Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
 
 ## Business Case: 
-To create a model that accurately predicts loan approval and automates the manual approval process. 
-
-## Goal: 
-To accurately predict loan approvals without falsely approving too many loans that should be denied (minimize False Positives). 
+This Consumable Sales Dashboard are essential tools for any consumer products company that wants to gain valuable insights into their sales data by identifying top Sales Person, Total Revenue, Budget and comparison between Budget and Revenue for the said period. 
 
 ## Deliverable: 
-A web app that end users can utilize to predict loan approvals using a Random Forest model on the backend. 
+The Dashboard that end users can utilize:
 
-    1. Web App: https://jessramos2-loan-approval-random-forest-web-streamlit-app-47jl27.streamlitapp.com/
+1. PowerBi Service: 
+2. PBIX File: <a href="https://drive.google.com/uc?export=download&id=1Q7_Seerl4Da2k3pDw9bOXH91vLe44wrc" download><button>Download File</button></a>
     
-  <img src="WebAppPic.jpg" width="430" height="400">
 
-### In Repository:
+## Screenshots :
 
-1. Data & data dictionary
+![pbi1](https://user-images.githubusercontent.com/66141195/236660644-690c7c32-9c99-4842-9c8e-af2a05959c7b.png)
 
-<img src="DataDictionary.jpg" width="350" height="250">
+![pbi2](https://user-images.githubusercontent.com/66141195/236660646-15890a77-128f-4458-829a-de9865cc7886.png)
 
-2. Random Forest Model Creation (Loan Approval Model.ipynb)
-
-3. Sample decision tree from random forest
-    
- ![](DecisionTree.jpg)
-
-4. Web App Python Code (streamlit_app.py)
-
-5. Web app link and screenshot
-
-
-## Results and Model Evaluation: 
-
-From a business perspective, we want to avoid predicting a positve loan approval when it was actually denied (False Positives), so ***Precision*** will be our best measures for the model. This will ensure that we are accurately predicting loan approvals and that predicted approvals are actual approvals (precision). 
-
-Since this model produces very similar precision scores on both the training and testing data, it appears to be the best fit to maximize predictive power on the training dataset without overfitting and sacrificing predictability on the testing data. 
-
-**Precision:** 
-Precision on the testing data is ~78%, which means that we don't have a large amount of False Positives. This is great, because as a business, we want to avoid predicting loans approvals that will have to be denied later. 
-
-
-**Accuracy:**
-Accuracy on the testing data is ~80% which means that the model correctly predicts 4/5 of the loans. 
-
-
-**Recall:**
- Recall on the testing data is 100% which means that the model accurately predicts all True Positives. This means that we will not miss out on any potential loan approvals (and revenue). 
-
-
-**F1 Score:**
-The F1 score on the testing data is ~88%, which is great since it takes into account both False Positives and False Negatives. 
+![pbi3](https://user-images.githubusercontent.com/66141195/236660652-cce1eb56-2b8d-44f5-8460-5e6525412a8d.png)
 
 
 ## Business Impact: 
+By using these dashboards, companies can:
+### 1.Gain insights into sales performance: 
+The comprehensive view of sales data, including sales by product, region, and time period, allows companies to quickly identify trends, opportunities, and areas for improvement.
+### 2.Track inventory levels:
+With the ability to track inventory levels, companies can make data-driven decisions about when to order new stock, helping to avoid stockouts and overstocking.
+### 3.Set and track sales goals:
+By setting sales goals for their team, companies can track progress towards achieving them with the help of these dashboards.
+### 4.Explore data and gain insights:
+The ability to drill down into the data and gain insights into consumer behavior and product performance is a valuable tool for any company looking to stay competitive in today's market.
 
-End users will be able to use the web app built off of this model to predict loan approvals right in front of the borrower. There will be no missed revenue opportunities since the model captures all true approvals (recall is 100%), and only a small portion of borrowers predicted to be approved will actually be denied. This will speed up the manual approval process and allow the company to process more loans in less time, resulting in more clients and revenue. 
-
-
-### Next Steps: Monitor performance and retrain model with more data as more data becomes available. 
+### Next Steps: Monitor performance of sales and retrain template with more data as more data becomes available. 
