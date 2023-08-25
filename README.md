@@ -9,17 +9,12 @@ This Consumable Sales Dashboard are essential tools for any consumer products co
 ## Deliverable: 
 The Dashboard that end users can utilize:
 
-1. PowerBi Service: 
+1. [PowerBi Service](https://app.powerbi.com/view?r=eyJrIjoiN2I2OTM1ZmItNWY1Yi00MzE2LThiYjgtZTgyYzc0Y2NhOTA0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 2. PBIX File: <a href="https://drive.google.com/uc?export=download&id=1Q7_Seerl4Da2k3pDw9bOXH91vLe44wrc" download><button>Download File</button></a>
-    
 
-## Screenshots :
+## Live Preview
 
-![pbi1](https://user-images.githubusercontent.com/66141195/236660644-690c7c32-9c99-4842-9c8e-af2a05959c7b.png)
 
-![pbi2](https://user-images.githubusercontent.com/66141195/236660646-15890a77-128f-4458-829a-de9865cc7886.png)
-
-![pbi3](https://user-images.githubusercontent.com/66141195/236660652-cce1eb56-2b8d-44f5-8460-5e6525412a8d.png)
 
 
 ## Business Impact: 
@@ -34,3 +29,13 @@ By setting sales goals for their team, companies can track progress towards achi
 The ability to drill down into the data and gain insights into consumer behavior and product performance is a valuable tool for any company looking to stay competitive in today's market.
 
 ### Next Steps: Monitor performance of sales and retrain template with more data as more data becomes available. 
+
+## Screenshots :
+
+![pbi1](https://user-images.githubusercontent.com/66141195/236660644-690c7c32-9c99-4842-9c8e-af2a05959c7b.png)
+
+![pbi2](https://user-images.githubusercontent.com/66141195/236660646-15890a77-128f-4458-829a-de9865cc7886.png)
+
+![pbi3](https://user-images.githubusercontent.com/66141195/236660652-cce1eb56-2b8d-44f5-8460-5e6525412a8d.png)
+
+![1](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif?raw=true)
