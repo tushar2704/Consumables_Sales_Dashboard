@@ -13,7 +13,7 @@ The Dashboard that end users can utilize:
 2. PBIX File: <a href="https://drive.google.com/uc?export=download&id=1Q7_Seerl4Da2k3pDw9bOXH91vLe44wrc" download><button>Download File</button></a>
 
 ## Live Preview
-
+![salesd3](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/95c6e080-7ac8-4005-a7f0-f48b22b188f6)
 
 
 
